@@ -1,4 +1,5 @@
-# DevHobbyApp - C# Seria Programista – część 3 – Najlepsze Praktyki Podstawy Języka 
+# DevHobbyApp 
+C# Seria Programista – część 3 – Najlepsze Praktyki Podstawy Języka 
 
 mariuszjurczenko@dev-hobby.pl
 
