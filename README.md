@@ -1,6 +1,6 @@
-# DevHobbyApp - C# Najlepsze Praktyki: podstawy. 
+# DevHobbyApp - C# Seria Programista – część 3 – Najlepsze Praktyki Podstawy Języka 
 
-    mariuszjurczenko@dev-hobby.pl
+mariuszjurczenko@dev-hobby.pl
 
 Kiedy po raz pierwszy zacząłem swoją kariera programistyczna, szybko dowiedziałem się, że jest duża różnica między wiedzą, jak pisać kod a wiedzą jak dobrze napisać kod, i tutaj leży wyzwanie.
 
@@ -19,3 +19,5 @@ Metody zapewniają operacje dla klasy, więc większość kodu, który piszemy, 
 Większość metod wymaga pewnych danych, i te dane są często przekazywane do metoda przez parametry. Będziemy patrzeć na najlepsze praktyki dotyczące określania jasnych parametrów metody, w tym nazwane parametry, parametry wyliczeniowe, parametry opcjonalne i parametry ref i out.
 
 Wiekszość danych w aplikacji jest przechowywana w ciągach tekstowych, więc omówimy najlepsze praktyki dla obsługi ciągów tekstowych,  w tym sprawdzanie wartości null, formatowanie ciągów tekstowych, nową funkcje interpolacji ciągów i StringBuilder. 
+
+Link do kursu https://dev-hobby.pl/kursy/c-najlepsze-praktyki-podstawy-jezyka/
